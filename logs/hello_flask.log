@@ -1,1 +1,5 @@
 2019-09-27 12:02:13,384 INFO: Hello Flask startup [in /Users/christianhovenbitzer/python/hello_flask/app/__init__.py:43]
+2019-09-30 13:51:15,259 INFO: Hello Flask startup [in /Users/christianhovenbitzer/python/hello_flask/app/__init__.py:47]
+2019-09-30 13:51:56,213 INFO: Hello Flask startup [in /Users/christianhovenbitzer/python/hello_flask/app/__init__.py:47]
+2019-09-30 13:52:16,023 INFO: Hello Flask startup [in /Users/christianhovenbitzer/python/hello_flask/app/__init__.py:47]
+2019-09-30 13:52:36,182 INFO: Hello Flask startup [in /Users/christianhovenbitzer/python/hello_flask/app/__init__.py:47]

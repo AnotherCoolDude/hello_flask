@@ -10,7 +10,7 @@ def send_email(subject, sender, recipients, text_body, html_body):
     Thread(target=send_async_email, args=(app, msg)).start()
 
 def send_async_email(app, msg):
-    with.app.app_context():
+    with app.app_context():
         mail.send(msg)
 
 def send_password_reset_mail(user):
